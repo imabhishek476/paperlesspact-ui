@@ -1,0 +1,163 @@
+{
+  "heroSection": {
+    "title": "Everything you need for intelligent contract management",
+    "description": "Never miss an opportunity or automatic renewal again. Get on board & monetize the full value of your contracts with contract automation & artificial intelligence.",
+    "cta1": "Schedule demo",
+    "cta2": "Start free trial",
+    "banner": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/644fb05b00834d252fce5a99_flow-desktop-eng-p-2000.webp"
+  },
+  "featureBlock": {
+    "badge": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/631972b222c9cd6d56499c56_Logo-ada.svg",
+    "title": "Get contracts digitalized in under 5 seconds",
+    "banner": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331cdaac41b200dde79ffa1_ada-graphic.webp",
+    "description": "ADA, our AI contract data analyst, extracts contract data from any contract PDF, including the general terms & conditions and addenda.",
+    "list": [
+      "➡️ Contracts are analysed & digitalised up to 3x faster.",
+      "➡️ Every contract is summarized, so you always know what it's about.",
+      "➡️ Artificial intelligence makes sure you won't overlook important deadlines."
+    ]
+  },
+  "features": {
+    "blocks": [
+      {
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/61939c9079a93462f8d07d96_dossiers_screenshot.webp",
+        "badge": "Contract overview and summaries",
+        "title": "Centralize all your contracts and agreements in one smart & secure space.",
+        "list": [
+          "Track each document’s status, start date & renewal date in 1 overview.",
+          "Know what is in your contracts with a glance at contract summaries",
+          "Find any document through powerful contract filters"
+        ]
+      },
+      {
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/60ed4e5f58ae305952ad46c0_hero-img-1-p-800.webp",
+        "badge": "Automated tasks and notifications",
+        "title": "Automatically delegate & follow up contract actions.",
+        "list": [
+          "Collaborate on contracts with customisable approval flows checkmark",
+          "Log any changes with version control & built-in communication checkmark",
+          "Proactively follow up on contracts with automated e-mail notifications"
+        ]
+      },
+      {
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/61939c5c71e556839e153e21_signing_flow_dark_green.png",
+        "badge": "E-signing",
+        "title": "Sign contracts faster online with digital signatures.",
+        "list": [
+          "Improve security with legally binding digital signatures checkmark",
+          "Track your signing statuses & send reminders with approval flows checkmark",
+          "Work more fluently with contracts ready for follow-up right after signing checkmark",
+          "Integrated Connective & DocuSign e-signing"
+        ],
+        "cta": "Get started with e-signing"
+      }
+    ]
+  },
+  "MoreFeatures": {
+    "title": "More features",
+    "cards": [
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/611bc34738a9ac5f8df02447_user_icon.svg",
+        "title": "User management & permissions",
+        "list": [
+          "Keep all team members aligned on one shared platform",
+          "Control who gets to see what with access rights",
+          "Assign team managers"
+        ]
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/60ee9a635628ed7c8e15ff21_Execution.svg",
+        "title": "Dashboards & reporting",
+        "list": [
+          "Keep all team members aligned on one shared platform",
+          "Control who gets to see what with access rights",
+          "Assign team managers"
+        ]
+      }
+    ]
+  },
+  "CtaBlock": {
+    "banner": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6193864ac5511922fdb9a3cb_cta-mockup.webp",
+    "title": "Prefer a personal product tour? Let our experts guide you.",
+    "cta": "Schedule product tour"
+  },
+  "applications": {
+    "title": "Smarter contract management for all teams",
+    "applications": [
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6332cc00a96edc756ff0e1a4_icon-legal.svg",
+        "title": "Legal"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f400502ff7435d192306_icon-chart.svg",
+        "title": "Finance"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f4019d4e447248dc4e3e_icon-sales.svg",
+        "title": "Sales"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f401084a705644c3b4bc_icon-star.svg",
+        "title": "Management"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f401f50dea6d14d0da9f_icon-hr.svg",
+        "title": "HR"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f4010292d0883996823d_icon-pm.svg",
+        "title": "Project Management"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f40167a79f3abc501ac6_icon-it.svg",
+        "title": "IT"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f40071113a887ce70f97_icon-home.svg",
+        "title": "Facility"
+      },
+      {
+        "icon": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6331f40154302c3480a45dcb_icon-plus.svg",
+        "title": "Many More"
+      }
+    ]
+  },
+  "clients": {
+    "title": "Intelligent contract management software for industry leaders",
+    "clients": [
+      {
+        "img": "/images/producthunt.svg",
+        "width": 167,
+        "height": 54
+      },
+      {
+        "img": "/images/capterra.svg",
+        "width": 153,
+        "height": 50
+      },
+      {
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6375f421aaf428c12cf6f9d6_Software%20advice%20badge.png",
+        "width": 178,
+        "height": 68
+      },
+      {
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/637601f426974192e419809f_ELTA_Logo_C_Web.webp",
+        "width": 168,
+        "height": 95
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Get started with smarter contract management for only € 147 per month",
+    "cta": {
+      "cta1": {
+        "title": "Start for free",
+        "link": "/"
+      },
+      "cta2": {
+        "title": "View pricing",
+        "link": "/"
+      }
+    }
+  }
+}

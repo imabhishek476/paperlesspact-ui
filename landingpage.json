@@ -1,0 +1,227 @@
+{
+  "navBar": {
+    "productNotification": "1",
+    "product": [
+      {
+        "title": "e-Sign",
+        "link": "/"
+      },
+      {
+        "title": "Contract Management",
+        "link": "/contract-management"
+      },
+      {
+        "title": "Aadhaar e-Sign",
+        "link": "/aadhaar-sign",
+        "tag": "For India"
+      },
+      {
+        "title": "e-Notary",
+        "link": "/e-notary",
+        "tag": "For India",
+        "disabled": "true"
+      },
+      {
+        "title": "Legal Notice",
+        "link": "/legal-notice",
+        "tag": "For India",
+        "disabled": "true"
+      },
+      {
+        "title": "Online e-Stamp",
+        "link": "/e-stamp",
+        "tag": "For India",
+        "disabled": "true"
+      }
+    ]
+  },
+  "hero": {
+    "title": {
+      "titlespan": "Find, sign & follow up",
+      "h1": "contracts like a",
+      "carousel": ["legal", "finance", "purchase", "real"],
+      "h2": "professional"
+    },
+    "badge": "Empowered by AI",
+    "description": "Keep your organisation’s masterpieces safe & visible in Asia smartest contract repository.",
+    "cta1": "Discover Feature",
+    "cta2": "Explore plans",
+    "bannerImg1": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/60ed4e5f58ae305952ad46c0_hero-img-1-p-1080.webp",
+    "bannerImg2": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/619365541ca0967dbdcb17c4_hero_image_2.webp"
+  },
+  "stats": {
+    "title": "Hundreds of industry leaders get what they bargained for with Contractify. When will you?",
+    "stats": [
+      {
+        "clientLogo": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/61936cad34b64570f18fb880_Logo-Vivaldis-Trimmed.png",
+        "width": 85,
+        "height": 45
+      },
+      {
+        "clientLogo": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/639a2eef7ff7865d63feebb3_bopro-logo-simple-p-500.webp",
+        "width": 111,
+        "height": 40
+      },
+      {
+        "clientLogo": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/61936cafb6e20c18a6ba9fe0_Logo-ASZ-Trimmed.webp",
+        "width": 70,
+        "height": 40
+      },
+      {
+        "clientLogo": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/639a2fdc3278f10408ee2fce_Bevolkingsonderzoek-Nederland.webp",
+        "width": 77,
+        "height": 45
+      },
+      {
+        "clientLogo": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/639a2fff59e94687195f09fd_Fortinop-logo-dark-social-p-500.webp",
+        "width": 86,
+        "height": 45
+      },
+      {
+        "clientLogo": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/63f61c65d64b21691ba13aba_cropped-cropped-Logo-3-RAAL-bord-blanc.webp",
+        "width": 45,
+        "height": 45
+      },
+      {
+        "clientLogo": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/61939e6e34b64593ab90ca7a_Logo-PMV-Trimmed.webp",
+        "width": 62,
+        "height": 30
+      }
+    ],
+    "cta1": "Request demo"
+  },
+  "usecases": {
+    "topic": "🚀 Use cases",
+    "title": "Unlock the Art of Effortless Contract Management with EaseDraft for",
+    "links": [
+      {
+        "title": "Legal teams",
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6527cfdb314aee6158821e51_team-legal.webp",
+        "color": "#f3fcf8"
+      },
+      {
+        "title": "Finance teams",
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6527d042e6b6cd26311575b6_team-finance.webp",
+        "color": "#fff8ec"
+      },
+      {
+        "title": "Management",
+        "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6527d04279fe9fb6cfbf9128_team-management.webp",
+        "color": "#f0f9fc"
+      }
+    ]
+  },
+  "feature1": {
+    "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/652d17b179cbf4ed07b8e535_20231010_overview_image-p-1080.webp",
+    "title": "Minimize Risks, Maximize Agreement Revenue with EaseDraft",
+    "list": [
+      "Never miss a agreement deadline with automatic agreement tasks & notifications",
+      "Keep a proactive overview of all your agreements and related info in 1 smart repository",
+      "Ace audits with a 100% secure process for finding and managing agreements and contractual obligations."
+    ]
+  },
+  "feature2": {
+    "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/652d17b1e3e8f973372577b4_20231010_ExctractDate_image.webp",
+    "title": "Save Time, Work Smarter, and Add Value to Your Business with EaseDraft.",
+    "list": [
+      "Get projects started faster with efficient agreement approval flows",
+      "Focus more on strategic tasks: let Artificial Intelligence handle your agreement administration",
+      "Don’t waste time on software implementation, get started in under 2 weeks."
+    ]
+  },
+  "feature3": {
+    "img": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/652d17b1accc15724d4129a9_20230704_collaborate_image-p-1080.webp",
+    "title": "Enhance Communication with EaseDraft: Streamlining Collaboration for Internal and External Teams.",
+    "list": [
+      "Collaborate on agreements from approval & signing to follow-up & renewal, all in 1 environment",
+      "Streamline agreement procedures & define clear agreement responsibilities with agreement tasks",
+      "Get everyone aligned with the right info with quick agreement summaries"
+    ]
+  },
+  "aifeature": {
+    "vid": "https://assets-global.website-files.com/6006c42a42689f444d860a2a/6318ece74e763dcff197a264_AdaAnimatie4-transcode.mp4",
+    "topic": "The power of Artificial Intelligence",
+    "title": "Meet your AI-contract colleague Anvi",
+    "description": "Unleash Ada’s award-winning artificial intelligence: save time by errorless analysing & digitising contracts in under 1 minute.",
+    "list": [
+      "No more manual errors",
+      "No more repetitive tasks-overload",
+      "Reducing administrative tasks by 50%"
+    ],
+    "cta1": "Schedule a demo",
+    "cta2": "More about Anvi"
+  },
+  "testimonial": {
+    "topic": "💬 Testimonials",
+    "title": "Take a look at easedraft.com wall of fame",
+    "reviews": [
+      {
+        "startCount": 5,
+        "review": "\"easedraft.com just brings me peace of mind on so many levels. The most important thing for me? Having everything conveniently located together and getting timely notifications for areas of concern. The cloud software also makes working from home a lot easier.\"",
+        "author": {
+          "profile": "https://assets-global.website-files.com/6006c42b2317af422dfb4a1f/6124fde491fb6e3b432b94ad_Logo-Vivaldis-Trimmed.png",
+          "name": "Frank A.",
+          "role": "Management Team"
+        }
+      },
+      {
+        "startCount": 5,
+        "review": "\"With easedraft.com, we've given our legal structure a strong foundation. All our contracts are managed in 1 place, we receive automatic termination date notifications and visibly reduce risks & costs. In less than 1,5h/week, we now manage contracts of over 20 branches!\"",
+        "author": {
+          "profile": "https://assets-global.website-files.com/6006c42b2317af422dfb4a1f/612504d5c5e0954df386b265_Logo-Meat-And-More-Trimmed.png",
+          "name": "Kunal M.",
+          "role": "Legal Team Lead "
+        }
+      }
+    ]
+  },
+  "footer": {
+    "description": "Easedraft – Explore a Complete Contract Automation Solution featuring Digital KYC, eSignatures, and Digital Stamps. Effortlessly create, store, manage, and analyze contracts of any scale with Draft smarter, edit with ease, and sign swiftly.",
+    "badge": "We're Hiring",
+    "links": [
+      {
+        "title": "About Us",
+        "slug": "/about-us"
+      },
+      {
+        "title": "Pricing",
+        "slug": "/pricing"
+      },
+      {
+        "title": "Contact Us",
+        "slug": "/about-us#contact"
+      }
+    ],
+    "links2": [
+      {
+        "title": "Privacy Policy",
+        "slug": "/privacy-policy"
+      },
+      {
+        "title": "Terms and Condition",
+        "slug": "/terms-and-conditions"
+      }
+    ],
+    "links3": [
+      {
+        "title": "Discover our vacancies",
+        "slug": ""
+      },
+      {
+        "title": "Press page",
+        "slug": ""
+      }
+    ],
+    "address": [
+      {
+        "description": "easedraft.com - Product of Vakily Softwares Pvt Ltd",
+        "address": "704, 7th floor, Palm Court, MG Road, Sec-16, Gurugram, Haryana, 122007",
+        "contact": "connect@easedraft.com / +91-8920766203"
+      }
+    ],
+    "bottomNav": {
+      "copyright": "© Copyright 2023-24 easedraft.com",
+      "finalMsg": "Made with ❤️ in India"
+    }
+  }
+}
